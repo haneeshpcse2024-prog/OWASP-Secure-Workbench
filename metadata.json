@@ -1,0 +1,6 @@
+{
+  "name": "OWASP Secure Coding Workbench",
+  "description": "Interactive defensive learning platform for CSE students covering OWASP Top 10:2021, heuristic code scanning, before-and-after vulnerability comparisons, audit checklist, and quiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
